@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Tipo_char/Tipo_char.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tipo_char/Program.cs">
+    <Files>
+      <File FileName="Tipo_char/Program.cs" Line="42" Column="1" />
+      <File FileName="../Cambia_base_2/Cambia_base_2/Cambia_base_2.cs" Line="31" Column="1" />
+      <File FileName="../Color_RGB/Color_RGB/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/RobertoB/Projects/Tipo_char/Tipo_char/Program.cs" line="42" column="8" />
+      <Breakpoint file="/Users/RobertoB/Projects/Tipo_char/Tipo_char/Program.cs" line="42" column="1" />
+      <Breakpoint file="/Users/RobertoB/Projects/Tipo_char/Tipo_char/Program.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tipo__char PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/RobertoB/Projects/Tipo_char/Tipo_char/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/RobertoB/Projects/Tipo_char/Tipo_char/bin/Debug/Tipo_char.exe.mdb
+/Users/RobertoB/Projects/Tipo_char/Tipo_char/bin/Debug/Tipo_char.exe
+/Users/RobertoB/Projects/Tipo_char/Tipo_char/obj/x86/Debug/Tipo_char.exe
+/Users/RobertoB/Projects/Tipo_char/Tipo_char/obj/x86/Debug/Tipo_char.exe.mdb
