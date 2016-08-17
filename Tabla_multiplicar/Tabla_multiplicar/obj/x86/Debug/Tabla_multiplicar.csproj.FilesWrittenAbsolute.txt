@@ -1,0 +1,5 @@
+/Users/RobertoB/Projects/Tabla_multiplicar/Tabla_multiplicar/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/RobertoB/Projects/Tabla_multiplicar/Tabla_multiplicar/bin/Debug/Tabla_multiplicar.exe.mdb
+/Users/RobertoB/Projects/Tabla_multiplicar/Tabla_multiplicar/bin/Debug/Tabla_multiplicar.exe
+/Users/RobertoB/Projects/Tabla_multiplicar/Tabla_multiplicar/obj/x86/Debug/Tabla_multiplicar.exe
+/Users/RobertoB/Projects/Tabla_multiplicar/Tabla_multiplicar/obj/x86/Debug/Tabla_multiplicar.exe.mdb

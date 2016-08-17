@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="Tabla_multiplicar/Tabla_multiplicar.csproj">
+  <MonoDevelop.Ide.ItemProperties.Tabla__multiplicar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
