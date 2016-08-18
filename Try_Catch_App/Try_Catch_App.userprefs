@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Try_Catch_App/Try_Catch_App.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Try_Catch_App/version_2.cs">
+    <Files>
+      <File FileName="Try_Catch_App/Program.cs" Line="30" Column="2" />
+      <File FileName="Try_Catch_App/version_2.cs" Line="31" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Try__Catch__App PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
