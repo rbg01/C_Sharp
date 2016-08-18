@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Try_catch_2_App/Try_catch_2_App.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Try_catch_2_App/Program.cs">
+    <Files>
+      <File FileName="Try_catch_2_App/Program.cs" Line="20" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Try__catch__2__App PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

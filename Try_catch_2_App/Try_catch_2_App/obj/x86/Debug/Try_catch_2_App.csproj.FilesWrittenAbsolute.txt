@@ -1,0 +1,5 @@
+/Users/RobertoB/Projects/Try_catch_2_App/Try_catch_2_App/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/RobertoB/Projects/Try_catch_2_App/Try_catch_2_App/bin/Debug/Try_catch_2_App.exe.mdb
+/Users/RobertoB/Projects/Try_catch_2_App/Try_catch_2_App/bin/Debug/Try_catch_2_App.exe
+/Users/RobertoB/Projects/Try_catch_2_App/Try_catch_2_App/obj/x86/Debug/Try_catch_2_App.exe
+/Users/RobertoB/Projects/Try_catch_2_App/Try_catch_2_App/obj/x86/Debug/Try_catch_2_App.exe.mdb
